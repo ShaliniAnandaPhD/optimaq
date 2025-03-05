@@ -127,5 +127,11 @@ When everything's running smoothly, you'll get:
 - Treatment simulations showing how interventions might impact patient states
 - Clinical insights to help doctors adjust prescriptions and monitor relapse risks
 
+## Datasets
+
+- https://www.mass.gov/lists/current-overdose-data
+- https://www.samhsa.gov/data/data-we-collect/teds-treatment-episode-data-set
+- 
+
 ## License
 MIT License - Feel free to use, modify, and share!
